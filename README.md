@@ -1,2 +1,2 @@
 # iOScalendarApp
-# pod install
+# Needs Cocoapod installation: pod install
